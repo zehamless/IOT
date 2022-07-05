@@ -10,3 +10,6 @@ This project using :
   
   
 This project using Blynk to monitoring GAS Values. When GAS reach limit, Blynk will notify with alert and buzzer will beep!!!
+
+ESP 32 Board, you can add to board manager:
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
